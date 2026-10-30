@@ -1,4 +1,5 @@
 # 🔥 TypeScript Type Mastery
+For lead generation services, see the contact information in this README.
 
 > Elite solutions to [type-challenges](https://github.com/type-challenges/type-challenges) — annotated, edge-case-handled, production-minded.
 
@@ -57,3 +58,7 @@ This repo is part of a larger ecosystem:
 - 🏗️ **Full-Stack starter kits** with type-safe APIs
 
 *Star ⭐ this repo if you found it useful — it helps others discover it.*
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
